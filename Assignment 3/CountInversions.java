@@ -1,4 +1,3 @@
-//Bhavanvir Rai V00938954
 /* CountInversions.java
    CSC 225 - Spring 2021
    Assignment 3 - Template for inversion counting
