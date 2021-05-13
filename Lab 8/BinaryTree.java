@@ -1,4 +1,3 @@
-//Bhavanvir Rai, V00938954 B02
 public class BinaryTree {
 
     public static class Node{
