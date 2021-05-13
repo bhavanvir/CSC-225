@@ -1,5 +1,3 @@
-//Bhavanvir Rai, V00938954 B02
-
 import java.io.File;
 import java.util.*;
 
